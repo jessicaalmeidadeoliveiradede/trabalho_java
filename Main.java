@@ -44,4 +44,7 @@ public void main(String); {
     };
       
       };
+
+// eu tive um poco de dificudade de botar para rodar o meu codigo for comendos onde pedir para ter um produto com os dados do clinete outra classe com dados dos produtos que sera vedidos 
+// e outros com as vendas do produtos que foram vedidos 
       
